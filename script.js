@@ -1,3 +1,3 @@
-function play(){
-    console.log("Play start now")
+function myFunction(){
+    console.log('I am here');
 }
